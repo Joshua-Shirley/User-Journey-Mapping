@@ -6,7 +6,7 @@ let Menu = {
     },
     links: [
         { href: "index.html", text: "Home" },
-        { href: "index.html", text: "Programs" },
+        { href: "wireframe.html", text: "Wireframe" },
         { href: "index.html", text: "Profile" }
     ],
     build: function() {
